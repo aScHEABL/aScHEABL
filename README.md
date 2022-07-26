@@ -141,6 +141,14 @@ I'm also passionate about exploring new technologies which I can leverage to sol
   </tr>
 </table>
 
+# 📈 Stats
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=aScHEABL&show_icons=true&theme=react&&hide_border=true"
+/>
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=aScHEABL&&theme=react&&hide_border=true"
+/>
 
 <!---
 aScHEABL/aScHEABL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
