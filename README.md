@@ -1,7 +1,7 @@
 # 👋 Hey there! 哈囉! <br>
 
 <div align="justify">
-I'm a very passinated, self-motivated Full Stack engineer who loves to work on web development. <br>
+I'm a very passinated, self-motivated Full Stack programmer who loves to work on web development. <br>
 
 前端網頁開發 / 全端工程師 <br>
 
