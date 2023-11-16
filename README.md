@@ -7,7 +7,7 @@ I'm a very passinated, self-motivated Full Stack programmer who loves to work on
 
 I'm also passionate about exploring new technologies which I can leverage to solve real-life problems. <br>
 
-I'm bilingual and I speak both English and Chinese fluently. <br>
+I'm bilingual and I speak both English and Chinese reasonably well. <br>
 [Pixiv Link](https://www.pixiv.net/en/users/94182718)
 </div>
 
