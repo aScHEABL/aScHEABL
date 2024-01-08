@@ -62,21 +62,21 @@ I'm bilingual and I speak both English and Chinese reasonably well. <br>
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"
+        src="https://img.icons8.com/?size=512&id=4PiNHtUJVbLs&format=png"
         width="48"
         height="48"
-        alt="Material UI"
+        alt="Tailwind CSS"
       />
-      <br /><strong>Material UI</strong>
+      <br /><strong>Tailwind CSS</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
+        src="https://seeklogo.com/images/M/mantine-logo-235E19C978-seeklogo.com.png"
         width="48"
         height="48"
-        alt="Bootstrap"
+        alt="Mantine"
       />
-      <br /><strong>Bootstrap</strong>
+      <br /><strong>Mantine</strong>
     </td>
   </tr>
   <tr>
@@ -109,12 +109,12 @@ I'm bilingual and I speak both English and Chinese reasonably well. <br>
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
+        src="https://img.icons8.com/?size=512&id=r9QJ0VFFrn7T&format=png"
         width="48"
         height="48"
-        alt="Firebase"
+        alt="Chakra UI"
       />
-      <br /><strong>Firebase</strong>
+      <br /><strong>Chakra UI</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -136,12 +136,12 @@ I'm bilingual and I speak both English and Chinese reasonably well. <br>
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"
+        src="https://img.icons8.com/?size=512&id=dJjTWMogzFzg&format=png"
         width="48"
         height="48"
-        alt="Jest"
+        alt="Vite"
       />
-      <br /><strong>Jest</strong>
+      <br /><strong>Vite</strong>
     </td>
   </tr>
 </table>
