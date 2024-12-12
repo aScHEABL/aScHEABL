@@ -1,9 +1,7 @@
 # 👋 Hey there! 哈囉! <br>
 
 <div align="justify">
-I'm a very passinated, self-motivated junior programmer who loves to work on web development. <br>
-
-全端軟體工程 <br>
+I'm a very passinated, self-motivated programmer who loves to work on web development and offer full stack solution. <br>
 
 I'm also passionate about exploring new technologies which I can leverage to solve real-life problems. <br>
 
